@@ -10,3 +10,7 @@ En este repositorio están las soluciones a los Kata encontrados, todos poseen u
 ## ¿Como estan estructuradas las carpetas?
 
 Dentro de la carpeta "src" dentro de este repositorio se encuentran carpetas para cada "kyu" realizado para esta evaluación, una vez dentro de la carpeta de dificultad cada desafio tiene una carpeta propia estructurada para poder descargar y probar.
+
+### Ejemplo:
+
+![image](https://user-images.githubusercontent.com/95377384/191376957-7f94a8c1-bb90-46d7-be17-76a94a545805.png)
